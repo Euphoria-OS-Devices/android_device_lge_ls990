@@ -1,1 +1,1 @@
-add_lunch_combo cm_ls990-userdebug
+add_lunch_combo eos_ls990-userdebug
